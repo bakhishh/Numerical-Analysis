@@ -2,14 +2,7 @@
 #include <stdlib.h>
 #include <math.h>
 #define N 10
-float ResultFunc(float rootf,int length,float coef1[N], float expo1[N]);
-float DerivativeFunc(float rootf,int length,float coef1[N], float expo1[N]);
-float inputmat(float mat[N][N],int n);
-float inversemat1(float mat[N][N],float birim[N][N],int n);
-float printmat(float mat[N][N],int n);
-float outbirim(float mat[N][N],int n);
-float inversemat2(float mat[N][N],float birim[N][N],int n);
-float inversemat3(float mat[N][N],float birim[N][N],int n);
+
 int main () {  
  
 	 
