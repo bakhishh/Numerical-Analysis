@@ -6,7 +6,7 @@ float ResultFunc(float rootf,int length,float coef1[N], float expo1[N]);
 float DerivativeFunc(float rootf,int length,float coef1[N], float expo1[N]);
 int main () {  
  
-	//NEWTON RAPHSHON METHOD 
+	
 	int NumTerm, i ;
 	float root,root1,root2;
 	float f1,f2;
